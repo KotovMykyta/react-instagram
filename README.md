@@ -1,3 +1,11 @@
+1) npm start
+2) json-server src/posts.json
+
+Home page: https://prnt.sc/tprntn
+
+Profile page: https://prnt.sc/tpro6x
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
